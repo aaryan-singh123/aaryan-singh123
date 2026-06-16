@@ -68,7 +68,7 @@ I'm a passionate developer who loves building real-world web applications and ex
 
 ### 🎓 [EduTrack Pro — Class Management System](https://github.com/aaryan-singh123/EduTrack-Pro)
 > Tracks students, fees, analytics & sends WhatsApp alerts
-- **Tech:** HTML, CSS, JavaScript, Local Storage
+- **Tech:** HTML, CSS, JavaScript, Supabase
 
 ---
 
