@@ -8,7 +8,7 @@ I'm a passionate developer who loves building real-world web applications and ex
 
 ## 🚀 About Me
 
-- 🎓 **BSC IT** — Mumbai University (2nd/3rd Year)
+- 🎓 **BSC IT** — Mumbai University (3rd Year)
 - 📍 Based in **Kalyan, Maharashtra**
 - 💻 Currently building projects in **Web Development, Data Analysis & AI**
 - 🌱 Learning **Python, Pandas, Machine Learning**
